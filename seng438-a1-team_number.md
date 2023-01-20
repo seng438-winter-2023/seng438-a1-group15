@@ -39,8 +39,8 @@ functional testing before this lab
 # High-level description of the exploratory testing plan
 
 For the exploratory testing of the ATM simulation, we will target the specific transaction interactions with the actor and the ATM system, these include:
-    * Entering valid and invalid inputs for the number of $20 bills, such as positive integer, negative integer, floats etc.
-    * Entering valid (1, and 2) and invalid card numbers registered on the ATM such as (3 or -6)
+-   Valid, invalid, and negative inputs to the input field of number of 20 dollar bills when we insert the card.(Integers, floats and negative numbers.)
+-   Valid (Card # 1 and 2) and invalid input (any other user input) for the card number that are registered on the ATM.
 
 # Comparison of exploratory and manual functional testing
 
