@@ -41,6 +41,11 @@ functional testing before this lab
 For the exploratory testing of the ATM simulation, we will target the specific transaction interactions with the actor and the ATM system, these include:
 -   Valid, invalid, and negative inputs to the input field of number of 20 dollar bills when we insert the card.(Integers, floats and negative numbers.)
 -   Valid (Card # 1 and 2) and invalid input (any other user input) for the card number that are registered on the ATM.
+-   Valid and Invalid input for PINS, that is each card registered for each account should only have 1 PIN associated with it. The digit
+length does not necessarily matter as long as it is the correct PIN.
+-   Testing each transaction option extensively, checking every option to see if for example the amount of money withdraw using option 1, which is $20 does display $20 on the GUI or not, and likewise the receipt log displays the correct amount withdrawn.
+-   As well as establishing links to two types of transactions. For example transfering money from a chequing to savings account, and checking to see if the second registered account can access the same cash.
+-   Briefly testing the take receipt and balance inquiry features as they are simply just a push of a button to display or delete the text from the receipt text window.
 
 # Comparison of exploratory and manual functional testing
 
