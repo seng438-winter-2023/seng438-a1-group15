@@ -33,8 +33,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This lab is for interacting and testing out important functionality for the SUT, an ATM simulation. We will use exploratory testing, manual scripted testing and regression testing as well as bug tracking software like Azure DevOps to keep a list of bugs we encounter. Based on lectures, exploratory testing is human-based testing where test cases are created on the fly, basically an "exploration" or a "thinking" activity. Manual functioning testing is the general overview of following a set path of test cases that usually covers functional requirements of the system.
 
 # High-level description of the exploratory testing plan
 
