@@ -50,7 +50,7 @@ length does not necessarily matter as long as it is the correct PIN.
 
 During the exploratory testing phase we found that some benefits of it include a much more broad range of possible testing cases that we can find. That is, with more people executing exploratory tests at will, it is much more likely to find a much broader range of bugs and system defects. At the cost of being much less efficient however as we come up with these tests at random via experimenting with the system.
 
-During the manual functional testing phase, we found it to be much more efficient as all team members follow a set or a subset of test cases, with the initial state of the system and the expected result already recorded, so it is a simple run-and-compare testing. However, due to this limited range of testing, it is much less effective at dectecting a broader range of bugs than exploratory testing, so not all defects can easily be found.
+During the manual functional testing phase, we found it to be much more efficient as all team members follow a set or a subset of test cases, with the initial state of the system and the expected result already recorded, so it is a simple run-and-compare testing. However, due to this limited range of testing, it is much less effective at dectecting a broader range of bugs than exploratory testing, so it is much more likely that some hard-to-find defects can slip under the radar regardless of how many people execute the tests.
 # Notes and discussion of the peer reviews of defect reports
 
 Text…
