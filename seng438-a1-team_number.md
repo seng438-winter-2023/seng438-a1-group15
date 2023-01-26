@@ -67,8 +67,20 @@ Regression Testing:
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Difficulties encountered:
+-   Keeping track of all inputs and bugs we could find.
+-   Getting familiar with AzureDevOps and how to format a defect report
+
+Challenges overcome:
+-   Gaining experience with the SUT system and properly recording bugs in Azure DevOps.
+
+Lessons learned:
+-   Benefits, tradeoffs, and comparison of exploratory, manual and regression testing.
+-   Learning the benefits of a bug tracking defect as well as proper bug report conventions and reproduction steps.
+-   Using Git to commit and work with markdown files.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+-   Instructions are sometimes verbose or unclear.
+-   Submissions are sometimes confusing and hard to understand what is required to submit, or the specifications of each field in the lab report is unclear.
+-   Would be great if you could provide some examples of what each field is supposed to contain in the lab report.
