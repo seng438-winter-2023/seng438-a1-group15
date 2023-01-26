@@ -53,7 +53,9 @@ During the exploratory testing phase we found that some benefits of it include a
 During the manual functional testing phase, we found it to be much more efficient as all team members follow a set or a subset of test cases, with the initial state of the system and the expected result already recorded, so it is a simple run-and-compare testing. However, due to this limited range of testing, it is much less effective at dectecting a broader range of bugs than exploratory testing, so it is much more likely that some hard-to-find defects can slip under the radar regardless of how many people execute the tests.
 # Notes and discussion of the peer reviews of defect reports
 
-
+-   Helped to format the proper bug reports displaying tags, the phase of the testing.
+-   Each pair created a set of bug reports found in each phase of testing. Then the other pairs would review each others bug reports to see if it is formatted correctly.
+-   In version 1.1 we also looked at the bug reports the pair didn't do and checked if the functionality was correct in which we then changed the status or commented on if the defect still existed.
 
 # How the pair testing was managed and team work/effort was divided 
 
