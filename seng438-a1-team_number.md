@@ -53,11 +53,17 @@ During the exploratory testing phase we found that some benefits of it include a
 During the manual functional testing phase, we found it to be much more efficient as all team members follow a set or a subset of test cases, with the initial state of the system and the expected result already recorded, so it is a simple run-and-compare testing. However, due to this limited range of testing, it is much less effective at dectecting a broader range of bugs than exploratory testing, so it is much more likely that some hard-to-find defects can slip under the radar regardless of how many people execute the tests.
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Exploratory testing: 
+-   All group members participated in pairs, doing an exploratory    session for about 20 mins each pair. The pairs are listed below on Manual Functional Testing.
+
+Manual Functional Testing: Carlos and Neil(50%), Hassan and Toshi(%50)
+
+Regression Testing: 
+-   All group members contributed to testing and editing bugs in the new version as well as changing bug reports to the appropritate status after peer review.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
